@@ -55,7 +55,7 @@
 - Теоретическая часть
 
 
-## [Практика Google Sheets](https://docs.google.com/spreadsheets/d/139KNXqiD0uj27QL0E_uqmNcRoTzuEdVFuQiJ5JpZNQA/edit?usp=sharing)
+[Практика Google Sheets](https://docs.google.com/spreadsheets/d/139KNXqiD0uj27QL0E_uqmNcRoTzuEdVFuQiJ5JpZNQA/edit?usp=sharing)
 
 Скачайте датасет MovieLens 100K к себе на компьютер
 https://grouplens.org/datasets/movielens/100k/
@@ -84,7 +84,7 @@ https://grouplens.org/datasets/movielens/100k/
 |6|Выявить top-5 самых активных пользователей (больше всего оценок) за последние 3 месяца|
 
 
-## [Практика Python](https://github.com/AV-Gorshkov/Big_Data_netology/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_Pandas_PySpark.ipynb)
+[Практика Python](https://github.com/AV-Gorshkov/Big_Data_netology/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_Pandas_PySpark.ipynb)
 
 В данном разделе мы выступим в роли data scientist и попытаемся построить простую модель для рекомендации фильмов пользователям.
 
@@ -123,7 +123,7 @@ https://grouplens.org/datasets/movielens/100k/
 |7|Оцените качество модели на x_test, y_test при помощи метрик для задачи регрессии|
 
 
-## Вторая часть практики Python связана со Spark
+Вторая часть практики Python связана со Spark
 
 |Номер|Задание|
 |-|-|
@@ -133,7 +133,7 @@ https://grouplens.org/datasets/movielens/100k/
 |11|В Spark’e получить 2 датафрейма с 5-ю самыми популярными и самыми непопулярными фильмами (по количеству оценок, либо по самой оценке - на Ваш выбор)|
 
 
-## [Теоретическая часть](https://docs.google.com/document/d/1rrh2Yjn1JlGI2OJdwxtEiHQNA-SJhBQ9/edit?usp=sharing&ouid=107413093638513881292&rtpof=true&sd=true)
+[Теоретическая часть](https://docs.google.com/document/d/1rrh2Yjn1JlGI2OJdwxtEiHQNA-SJhBQ9/edit?usp=sharing&ouid=107413093638513881292&rtpof=true&sd=true)
 
 Вы - главный по данным в среднем по объему просмотров интернет-кинотеатре. Ваша задача разработать стратегию внедрения хранилища данных и работы с большими данными в этой компании. Задания:
 
