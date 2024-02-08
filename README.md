@@ -4,20 +4,20 @@
 **[1. Традиционные аналитические подходы](https://docs.google.com/spreadsheets/d/19SB7KodAGAN9YJYCYTB8EKqruaeSCBln74Duy6KxDzc/edit?usp=sharing)**
 
 - Google Sheets: анализ данных
-
+---
 
 **[2. Машинное обучение и Data Science](https://github.com/AV-Gorshkov/Big_Data_netology/blob/main/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B8_Data_Science.ipynb)**
 
 - Предсказать значение столбца MEDV на основе других признаков;
 - Решить задачу регрессии, используя алгоритм линейной регрессии;
 - Оценить качество регрессии при помощи метрики MSE.
-
+---
 
 **[3. Основы PySpark](https://github.com/AV-Gorshkov/Big_Data_netology/blob/main/PySpark_(%D1%87%D0%B0%D1%81%D1%82%D1%8C_1).ipynb)**
 
 - Действия с DataFrame
 - Визуализация данных
-
+---
 
 **[4. PySpark часть 2](https://github.com/AV-Gorshkov/Big_Data_netology/blob/main/PySpark_(%D1%87%D0%B0%D1%81%D1%82%D1%8C_2).ipynb)**
 
@@ -26,7 +26,7 @@
 - Создание ML модели дерево решений
 - Оценка качества модели
 - Построение Pipeline
-
+---
 
 **[5. Практика с использованием Pandas](https://github.com/AV-Gorshkov/Big_Data_netology/blob/main/Python_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5_ML.ipynb)**
 
@@ -41,7 +41,7 @@
 - Перевести штат в one-hot формат при помощи pandas-функции get_dummies или удалить колонку, если вы делаете решение на pyspark
 - Разбить данные на множества для обучения и для проверки, отобрав признаки для обучения модели классификации (убрать номер телефона, код региона, признаки планов + все добавленные атрибуты)
 - Обучить какую-нибудь модель классификации и оценить качество (точность) на отложенной выборке
-
+---
 
 **6. Проектная работа**
 
